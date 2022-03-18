@@ -1,12 +1,12 @@
-# Octopus Project
+# Octopus Project
 
-Petit server web ecrit en go qui permet de lancer une application shiny
+Small web server written in go that allows to launch a shiny application
 
-## TODO 
+## TODO 
 
-- Ajouter une vrai UI
-- Ajouter une BDD et des méthodes pour manipuler les users
-- Ajouter des arguments en pour lancer le binaire, notamment le port
-- Ajouter les dep avec les modules go
-- Ajouter les UT
-- Trouver un moyen de changer le rscript qui lance l'app
+- Add a real UI
+- Add a DB and methods to manipulate users
+- Add arguments in to launch the binary, especially the port
+- Add dep with go modules
+- Add the UTs
+- Find a way to change the rscript that launches the app
